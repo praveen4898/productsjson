@@ -1,0 +1,12 @@
+{
+    "products":[
+        {
+            "name":"sonytv",
+            "thumbnailimage":"https://sony.scene7.com/is/image/sonyglobalsolutions/TVFY23_Category_Panel_Device_B?$ColumnStatic$&fmt=png-alpha",
+            "productsimages":["https://sony.scene7.com/is/image/sonyglobalsolutions/TVFY23_Category_High_impact_D?$mediumstaticimagehotspot$&fmt=png-alpha",
+        "https://sony.scene7.com/is/image/sonyglobalsolutions/TVFY23_Category_Bravia_core_D?$mediumstaticimagehotspot$&fmt=png-alpha",
+        "https://sony.scene7.com/is/image/sonyglobalsolutions/TVFY23_Category_Panel_Device_C?$ColumnStatic$&fmt=png-alpha","https://sony.scene7.com/is/image/sonyglobalsolutions/TVFY23_Category_Google_TV_D?$mediumstaticimagehotspot$&fmt=png-alpha"],
+            "description":"sony tv with wide features and options"
+        }
+    ]
+}
