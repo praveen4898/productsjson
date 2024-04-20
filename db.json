@@ -2,7 +2,8 @@
     "products":[{
         "id": 1,
         "name": "Product 1",
-        "price": "$19.99",
+        "price": 19.99,
+        "category":"cat1",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg",
@@ -13,7 +14,8 @@
       {
         "id": 2,
         "name": "Product 2",
-        "price": "$29.99",
+        "price": 29.99,
+        "category":"cat1",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg","",
@@ -24,7 +26,8 @@
       {
         "id": 3,
         "name": "Product 3",
-        "price": "$29.99",
+        "price": 9.99,
+        "category":"cat2",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg",
@@ -35,7 +38,8 @@
       {
         "id": 4,
         "name": "Product 4",
-        "price": "$29.99",
+        "price": 23.99,
+        "category":"cat3",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg",
@@ -45,7 +49,8 @@
       },{
         "id": 5,
         "name": "Product 5",
-        "price": "$29.99",
+        "price": 17.99,
+        "category":"cat2",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg",
@@ -56,7 +61,8 @@
       ,{
         "id": 6,
         "name": "Product 6",
-        "price": "$29.99",
+        "price": 13.77,
+        "category":"cat4",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg",
@@ -67,7 +73,8 @@
       {
         "id": 7,
         "name": "Product 7",
-        "price": "$29.99",
+        "price": 11.47,
+        "category":"cat3",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg",
@@ -78,7 +85,8 @@
       {
         "id": 8,
         "name": "Product 8",
-        "price": "$29.99",
+        "price": 13.17,
+        "category":"cat1",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg",
@@ -89,7 +97,8 @@
       {
         "id": 9,
         "name": "Product 9",
-        "price": "$29.99",
+        "price": 18,
+        "category":"cat4",
         "thumbnail": "https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quas aliquam deserunt id alias nihil quis corrupti iste voluptatum nulla quam, quibusdam sit inventore, pariatur autem, numquam non! Magni, fugiat?",
         "images":["https://i.etsystatic.com/11256627/r/il/c5b2a7/3654328563/il_340x270.3654328563_hzae.jpg",
